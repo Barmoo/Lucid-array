@@ -15,9 +15,9 @@ const footer = () => {
               </div>
               <p className="ml-2 text-lg md:text-xl font-bold">Lucid Array</p>
             </div>
-            <p className="text-gray-300 text-sm md:text-base mt-2">
+            {/* <p className="text-gray-300 text-sm md:text-base mt-2">
               Innovative solutions for your digital needs
-            </p>
+            </p> */}
           </div>
 
           {/* Center Section: Navigation Links */}
@@ -46,9 +46,9 @@ const footer = () => {
             <a href="#" className="hover:text-blue-400 transition-colors">
               <FaLinkedin size={24} />
             </a>
-            <a href="#" className="hover:text-blue-400 transition-colors">
-              <FaGithub size={24} />
-            </a>
+            {/* <a href="#" className="hover:text-blue-400 transition-colors">
+              <FaGithub size={24} /> */}
+            {/* </a> */}
           </div>
         </div>
 
