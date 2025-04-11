@@ -6,7 +6,7 @@ import figma9 from '../assets/images/figma9.jpg';
 
 const clients = () => {
   return (
-    <div className="bg-white py-12 px-4 grid grid-rows-1">
+    <div id="clients" className="bg-white py-12 px-4 grid grid-rows-1">
       {/* Section Title */}
       <div className="text-center mb-8">
         <p className="text-blue-500 text-shadow-blue-400 font-bold">Our Clients</p>
