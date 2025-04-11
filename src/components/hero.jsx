@@ -4,8 +4,8 @@ const hero = () => {
   return (
     <div className="h-screen relative bg-[#081A44]">
       {/* Hero Text Section */}
-      <div className="flex flex-col justify-center items-center space-y-4 h-full px-4">
-        <h2 className="text-[2rem] sm:text-[3rem] md:text-[5rem] text-white font-bold w-full sm:w-[80%] md:w-[65%] text-center">
+      <div className="flex flex-col justify-center items-center space-y-4 h-full px-4 pb-12">
+        <h2 className="text-[2rem] sm:text-[3rem] md:text-[4rem] text-white font-bold w-full sm:w-[80%] md:w-[65%] text-center">
           Technology Solutions for your Business.
         </h2>
         <p className="text-[10px] sm:text-[12px] md:text-[14px] text-white text-center">
