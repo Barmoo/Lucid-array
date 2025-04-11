@@ -26,7 +26,7 @@ const footer = () => {
               <li className="hover:text-blue-300 cursor-pointer transition-colors">Services</li>
               <li className="hover:text-blue-300 cursor-pointer transition-colors">Clients</li>
               <li className="hover:text-blue-300 cursor-pointer transition-colors">Projects</li>
-              <li className="border-0 px-4 py-1 rounded-md bg-blue-400 hover:bg-blue-500 transition-colors cursor-pointer">
+              <li className="hover:text-blue-300 cursor-pointer transition-colors">
                 Contact
               </li>
             </ul>
